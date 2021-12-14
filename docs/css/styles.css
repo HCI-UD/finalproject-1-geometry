@@ -32,6 +32,19 @@ nav {
   padding-bottom: 0.5rem;
 }
 
+#screenshot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding:2rem;
+}
+
+#screenshot img {
+  max-width: 25rem;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 4rem;
+}
+
 nav img {
   height: 2.5rem;
   margin-right:0.5rem;
