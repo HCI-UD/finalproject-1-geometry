@@ -7,3 +7,5 @@ project.
 
 The website source code is located in the `docs/` directory and the
 mobile app source code is located in the `mobile-app/` directory.
+Various iterations of our presentations and proposals can be found in
+the `proposal/` directory.
