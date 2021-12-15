@@ -90,6 +90,7 @@ nav label {
 }
 
 nav {
+  z-index: 1000;
   width: 100vw;
   margin: 0;
   box-sizing: border-box;
