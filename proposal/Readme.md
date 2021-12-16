@@ -16,7 +16,7 @@ directory:
 xelatex Real-World-Geometry-First-Proposal.tex && xelatex Real-World-Geometry-First-Proposal.tex
 ```
 
-Our second project proposal in in the file
+Our final project proposal is in the file
 `final-draft/Real-World-Geometry-Final-Proposal.pdf`. The source code
 for this pdf is in the file
 `final-draft/Real-World-Geometry-Final-Proposal.tex`. The presentation
