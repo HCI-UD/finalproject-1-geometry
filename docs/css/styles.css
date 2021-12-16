@@ -40,7 +40,7 @@ nav label {
   display:none;
 }
 
-.proposal {
+.file {
   max-height: 40rem;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -56,16 +56,16 @@ nav label {
   padding-bottom: 1rem;
 }
 
-.proposal:hover {
+.file:hover {
   background-color: #CDD2D7;
 
 }
 
-.proposal:active {
+.file:active {
   background-color: #C6CBD0;
 }
 
-.proposal h2 {
+.file h2 {
   margin: 0;
   margin-bottom: 1rem;
   border-bottom: 0.0625rem solid #A5B0BD;
@@ -74,7 +74,7 @@ nav label {
   padding: 1rem;
 }
 
-.proposals {
+.files {
   margin: 2rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -82,7 +82,7 @@ nav label {
 }
 
 
-.proposal img {
+.file img {
   margin: auto;
   max-width: 100%;
   border: 0.0625rem solid #A5B0BD;
@@ -259,7 +259,7 @@ p {
     justify-content: right;
   }
 
-  .proposals {
+  .files {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
   }
